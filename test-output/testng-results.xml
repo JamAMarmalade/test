@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51800" started-at="2017-05-05T14:27:32Z" finished-at="2017-05-05T14:28:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51800" started-at="2017-05-05T14:27:32Z" finished-at="2017-05-05T14:28:24Z">
+      <class name="ExtentReportTest.JamesA.AmazonShopper">
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:1, instance:ExtentReportTest.JamesA.AmazonShopper@26653222]" name="verifyHomePageTitle" duration-ms="22089" started-at="2017-05-05T15:27:32Z" finished-at="2017-05-05T15:27:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="verifyLogo()[pri:2, instance:ExtentReportTest.JamesA.AmazonShopper@26653222]" name="verifyLogo" duration-ms="29696" started-at="2017-05-05T15:27:54Z" finished-at="2017-05-05T15:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+      </class> <!-- ExtentReportTest.JamesA.AmazonShopper -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
